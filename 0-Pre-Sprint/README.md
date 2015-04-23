@@ -9,12 +9,17 @@ need to complete before the sprint and what to expect during the sprint.
 
 **Facilitator** Leads the design sprint. Guides the sprint from start to
 completion.
+- Jordan?
 
 **Recorder** Takes notes, photographs and is in charge of the documentation for
 the sprint.
+- Jordan?
 
 **Product Owner** Typically the client and the person with the initial product vision. 
 This person has final say in the product.
+- Jordan?
+
+CAN 1 PERSON BE ALL THREE??
 
 ### Set expectations for the outcome for the sprint
 
@@ -87,10 +92,14 @@ room would have a whiteboard and a place to pin or tape up sketches. **Typically
 * Whiteboard markers
 * Circle vote stickers
 * Easel Pad
+
+--> GOT
  
 **Typically done by Facilitator.**
 
 ### Schedule 4–6 people for interviews / usability tests
+
+- SHOULDN"T WE DO THIS ONCE WE HAVE SOME WIREFRAMES/A PROTOTYPE FOR THEM TO PLAY WITH?
 
 Only if users are already identified. Otherwise this should be held off till
 after Understand. During [Test](../5-Test), we'll be running a user study, showing the
