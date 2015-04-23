@@ -18,6 +18,8 @@ Please identify at least three (3) websites that are competitors/similar to your
 * 1. https://dash.generalassemb.ly/projects
 * 2. http://www.hackreactor.com/remote-beta/
 * 3. http://www.vikingcodeschool.com/
+* 4. https://www.thinkful.com/
+* 5. https://www.bloc.io
 
 Please conduct at least three(3) customer interviews.
 
