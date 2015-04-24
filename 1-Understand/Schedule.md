@@ -23,15 +23,21 @@ reducing those risks and move forward confident we are heading in the right
 direction. Also, by gather info we will empower our decision making abilities
 and eliminate the need for guesswork later on.
 
-#### The Problem Statement *(10min)*
+#### [The Problem Statement] (https://docs.google.com/a/makersacademy.com/document/d/1zU2_1oXmPjxzZXNDgS2ZdvRgMklmHQI_0vrXlDzcrpE/edit?usp=sharing) *(10min)*
 
 #### Introduce Assumptions Board *(10min)*
+- [Instructions] (https://github.com/jordanpoulton/design-sprint/blob/master/Exercises/assumptions.md)
+- [Ours] (https://docs.google.com/a/makersacademy.com/spreadsheets/d/1Vb9dNgqKxifubobRui6HXT_FVNQuRJDy4JONaSVZY9M/edit?usp=sharing)
 
 #### Introduce Back-burner Board *(10min)*
+- [Features Wishlist] (https://docs.google.com/a/makersacademy.com/spreadsheets/d/1Qbx44bveOU1hvCnNdklqeYHRvhletsstWiXnsy5Tkck/edit?usp=sharing) - same thing?!
 
 #### Pitch Practice *(15min)*
+- See Pitch Deck to Investors (▸ Documents ▸ Ronin ▸ Strategic ▸ ronin pitch.key)
 
 #### Existing research *(10min)*
+- [Beautiful Sites] (https://drive.google.com/open?id=19XvcTXkBGEUDQ9yuhcA7fthcdT2qsbjcpg2FTWf5O3A&authuser=0)
+- [Whiteboarding] (https://drive.google.com/open?id=1xs9Pb7uGVrUkaJ00rk5rwqun8MvpG3cXsy43agKIG_U&authuser=0)
 
 Quickly identify existing research the client has done and determine when that
 research can be brought back during the definitions section of the day.
