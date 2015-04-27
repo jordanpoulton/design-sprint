@@ -31,6 +31,7 @@ and eliminate the need for guesswork later on.
 
 #### Introduce Back-burner Board *(10min)*
 - [Features Wishlist] (https://docs.google.com/a/makersacademy.com/spreadsheets/d/1Qbx44bveOU1hvCnNdklqeYHRvhletsstWiXnsy5Tkck/edit?usp=sharing) - same thing?!
+- [Issues Board] (https://github.com/makersacademy/ronin/issues#boards)
 
 #### Pitch Practice *(15min)*
 - See Pitch Deck to Investors (▸ Documents ▸ Ronin ▸ Strategic ▸ ronin pitch.key)
