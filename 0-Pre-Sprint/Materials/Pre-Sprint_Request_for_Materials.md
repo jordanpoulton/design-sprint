@@ -20,6 +20,7 @@ To prepare for it, it would be great to have:
 (4) Any other background materials you already have.
 
 https://github.com/makersacademy/atlas
+https://github.com/makersacademy/ronin
 
 (5) For <date>, we'll want to schedule time with users in the morning and early afternoon. 6 users for 30 minutes each would be ideal. If you identify the people you want to bring in, we'd be happy to schedule them, or you could schedule the times directly if that's easier. We'll want to finish by 2:30pm to prepare findings for a 3:30pm discussion that day that will end the Design Sprint. We'll have each participant use the prototype we built and ask them questions to get their feedback.
 
